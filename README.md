@@ -1,5 +1,5 @@
 # UML_editor
 Very simple UML editor
 
-##DEMO
+## DEMO
 ![Demo](https://imgur.com/QqMoSJg.gif)
